@@ -1,5 +1,5 @@
 Ubuntu Software Package Management System
-Ubuntu Logo
+
 
 Overview
 This document provides comprehensive guidelines for managing software packages on Ubuntu systems using APT (Advanced Package Tool). It covers installation, updates, removal, and repository management with security best practices.
